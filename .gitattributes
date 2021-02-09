@@ -1,4 +1,4 @@
-# Enforce Unix newlines
+# Enforce POSIX newlines
 * text=auto eol=lf
 
 # Don't diff or textually merge source maps
